@@ -45,6 +45,6 @@
 <img src="https://github.com/Spidy20/Image_Filters_GUI/blob/master/6.png">
 
 
-## [Demo Video](https://youtu.be/FZf3aXBh4FQ)
+## [Demo Video](https://youtu.be/P8WMdUIEwTw)
 
 ## Just follow☝️ me and Star⭐ my repository 
